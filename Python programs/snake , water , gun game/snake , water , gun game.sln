@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "snake , water , gun game", "snake , water , gun game\snake , water , gun game.pyproj", "{21795628-6BFD-4E2C-96FF-E7C01DC7A651}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21795628-6BFD-4E2C-96FF-E7C01DC7A651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21795628-6BFD-4E2C-96FF-E7C01DC7A651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A17E7E10-9237-4E09-8600-6F09A647A808}
+	EndGlobalSection
+EndGlobal
